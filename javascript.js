@@ -11,7 +11,7 @@ function play() {
 
 // if we click satrt reset button
 document.getElementById("startreset").onclick = function(){
-// play();
+ play();
     // if we are playing
     if(playing == true){
 
